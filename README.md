@@ -1,6 +1,6 @@
-## Hi , I'm Amen Ellah ✨
- Computer Engineering Student at Faculty Of Sciences Bizerte <br/>
- I create Cyber Security , Web and Mobile Projects to stay Consitent
+## Hi , I'm Amen Ellah ✨🗿
+ 🧠 Computer Engineering Student at Faculty Of Sciences Bizerte <br/>
+ 💻 I create Cyber Security , Web and Mobile Projects to stay Consitent
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AmenEllahKerimi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amenellah.kerimi@fsb.ucar.tn) 
