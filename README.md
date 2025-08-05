@@ -125,5 +125,5 @@ Here's an overview of the technologies and tools I work with, categorized by fie
 
 | CTF Name          | Highlights & Skills Applied                                      | Proof |
 |------------------|------------------------------------------------------------------|-------|
-| World Wide CTF 2025 | Solved reverse engineering and protocol analysis challenges in a jeopardy-style event. Focused on binary dissection and logic flaws in simulated IoT firmware. | ![Certificate](./assets/wwctf_cert.png) |
+| World Wide CTF 2025 | Solved reverse engineering and protocol analysis challenges in a jeopardy-style event. Focused on binary dissection and logic flaws in simulated IoT firmware. | ![Certificate](./assets/certificate-WWC-CTF.jpg) |
 
