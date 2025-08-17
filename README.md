@@ -1,4 +1,4 @@
-## Hi, I'm Amen Ellah ✨🗿
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I'm+Amen+Ellah+Kerimi)](https://git.io/typing-svg)
 
 A passionate **Computer Engineering Student** at the Faculty of Sciences Bizerte. I'm driven by a desire to learn and build, constantly creating projects in areas like Cyber Security, AI, Web Development, Mobile Development, and IoT to refine my skills and stay consistent.
 
