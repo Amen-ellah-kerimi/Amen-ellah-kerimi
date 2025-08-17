@@ -90,7 +90,7 @@ Here's an overview of the technologies and tools I work with, categorized by fie
 ### 🧠 Artificial Intelligence & Machine Learning
 | Project Name               | Description                                                                                     | Link                                                                                          |
 |---------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Spam_Classifier           | Spam message classification using Python ML.                                                   | [Spam_Classifier](https://github.com/Amen-ellah-kerimi/Spam_Classifier)                       |
+| Spam_Classifier           | Spam message classification using Python ML.                                                   | [Repo](https://github.com/Amen-ellah-kerimi/Spam_Classifier)                       |
 | FAQs Chatbot (work in progress) | AI chatbot project for FAQs handling (not on GitHub yet).                                    | —                                                                                             |
 
 ---
@@ -98,9 +98,9 @@ Here's an overview of the technologies and tools I work with, categorized by fie
 ### 🔒 Cybersecurity
 | Project Name               | Description                                                                                     | Link                                                                                          |
 |---------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| PFA_SECOT                 | IoT security audit system exploiting MQTT vulnerabilities.                                    | [PFA_SECOT](https://github.com/Amen-ellah-kerimi/PFA_SECOT)                                 |
-| SECoT CLI Tool (Rust)     | CLI tool in Rust interacting with SECoT ESP32 device; supports network scanning and attack simulation. | [secot-cli](https://github.com/Amen-ellah-kerimi/secot-cli)                                  |
-| Simple-Keylogger          | Python keylogger for educational purposes, logs keystrokes to a file.                          | [Simple-Keylogger](https://github.com/Amen-ellah-kerimi/Simple-Keylogger)                    |
+| PFA_SECOT                 | IoT security audit system exploiting MQTT vulnerabilities.                                    | [Repo](https://github.com/Amen-ellah-kerimi/PFA_SECOT)                                 |
+| SECoT CLI Tool (Rust)     | CLI tool in Rust interacting with SECoT ESP32 device; supports network scanning and attack simulation. | [Repo](https://github.com/Amen-ellah-kerimi/secot-cli)                                  |
+| Simple-Keylogger          | Python keylogger for educational purposes, logs keystrokes to a file.                          | [Repo](https://github.com/Amen-ellah-kerimi/Simple-Keylogger)                    |
 | Tool integrations         | Nmap, Hydra, Metasploit, Wireshark, Aircrack-ng, John the Ripper, Burp Suite, Eclipse Mosquitto, OpenSSL (used within projects). | — |
 
 ---
@@ -108,18 +108,18 @@ Here's an overview of the technologies and tools I work with, categorized by fie
 ### 📱 Mobile Development
 | Project Name               | Description                                                                                     | Link                                                                                          |
 |---------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| IMC_Calculator_App        | Flutter app calculating BMI (Body Mass Index).                                                | [IMC_Calculator_App](https://github.com/Amen-ellah-kerimi/IMC_Calculator_App)                 |
+| IMC_Calculator_App        | Flutter app calculating BMI (Body Mass Index).                                                | [Repo](https://github.com/Amen-ellah-kerimi/IMC_Calculator_App)                 |
 
 ---
 
 ### 🧮 Hardware & Embedded Systems
 | Project Name               | Description                                                                                     | Link                                                                                          |
 |---------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Real-Time-Face-Detection-and-Recognition-Using-FPGA-and-CNN-Accelerator | FPGA-based face detection & recognition using CNN.                                         | [Real-Time-Face-Detection-and-Recognition-Using-FPGA-and-CNN-Accelerator](https://github.com/Amen-ellah-kerimi/Real-Time-Face-Detection-and-Recognition-Using-FPGA-and-CNN-Accelerator) |
-| SECoT Core Firmware       | Firmware for SECoT device acting like a Flipper Zero; supports attacks like ARP spoofing, deauth, evil twin, beacon flood, and their combinations. | [secot-core-firmware](https://github.com/Amen-ellah-kerimi/secot-core-firmware) |
-| SECoT Victim Firmware     | Firmware for IoT victim devices targeted by SECoT attacks; used to demonstrate and test vulnerabilities in wireless networks. | [secot-victim-firmware](https://github.com/Amen-ellah-kerimi/secot-victim-firmware) |
-| Smart Light Firmware      | Firmware controlling smart lighting devices, enabling networked control and automation features. | [smart-light-firmware](https://github.com/Amen-ellah-kerimi/smart-light-firmware) |
-| Weather Station Firmware  | Firmware managing sensors and data acquisition in weather monitoring IoT devices; integrates with MQTT for real-time data streaming. | [weather-station-firmware](https://github.com/Amen-ellah-kerimi/weather-station-firmware) |
+| Real-Time-Face-Detection-and-Recognition-Using-FPGA-and-CNN-Accelerator | FPGA-based face detection & recognition using CNN.                                         | [Repo](https://github.com/Amen-ellah-kerimi/Real-Time-Face-Detection-and-Recognition-Using-FPGA-and-CNN-Accelerator) |
+| SECoT Core Firmware       | Firmware for SECoT device acting like a Flipper Zero; supports attacks like ARP spoofing, deauth, evil twin, beacon flood, and their combinations. | [Repo](https://github.com/Amen-ellah-kerimi/secot-core-firmware) |
+| SECoT Victim Firmware     | Firmware for IoT victim devices targeted by SECoT attacks; used to demonstrate and test vulnerabilities in wireless networks. | [Repo](https://github.com/Amen-ellah-kerimi/secot-victim-firmware) |
+| Smart Light Firmware      | Firmware controlling smart lighting devices, enabling networked control and automation features. | [Repo](https://github.com/Amen-ellah-kerimi/smart-light-firmware) |
+| Weather Station Firmware  | Firmware managing sensors and data acquisition in weather monitoring IoT devices; integrates with MQTT for real-time data streaming. | [Repo](https://github.com/Amen-ellah-kerimi/weather-station-firmware) |
 
 
 ### 🏴 CTF Participation
