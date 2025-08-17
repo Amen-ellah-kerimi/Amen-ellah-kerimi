@@ -61,30 +61,29 @@ Here's an overview of the technologies and tools I work with, categorized by fie
 ## 🚀 Projects by Field
 
 ### 🌐 Full-Stack & Web Development
-| Project Name               | Description                                                                                     | Link                                                                                          |
-|---------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Web-IOT-Weather-Dashboard  | React frontend + Python Flask backend using MQTT and Chart.js to display weather sensor data.    | [Web-IOT-Weather-Dashboard](https://github.com/Amen-ellah-kerimi/Web-IOT-Weather-Dashboard)   |
-| amazon-copy               | Amazon e-commerce frontend clone built with React.                                              | [amazon-copy](https://github.com/Amen-ellah-kerimi/amazon-copy)                                |
-| Online_Shop_Example        | Example online shop project demonstrating fullstack concepts.                                   | [Online_Shop_Example](https://github.com/Amen-ellah-kerimi/Online_Shop_Example)                |
-| Introduction_-_React       | Basic React tutorial project for learning React fundamentals.                                   | [Introduction_-_React](https://github.com/Amen-ellah-kerimi/Introduction_-_React)              |
-| Portfolio-with-Tailwind-CSS| Personal portfolio site using Tailwind CSS.                                                     | [Portfolio-with-Tailwind-CSS](https://github.com/Amen-ellah-kerimi/Portfolio-with-Tailwind-CSS)|
-| Project-Template          | Boilerplate template project for starting frontend development.                                 | [Project-Template](https://github.com/Amen-ellah-kerimi/Project-Template)                     |
-| Quiz                      | Simple interactive quiz app.                                                                    | [Quiz](https://github.com/Amen-ellah-kerimi/Quiz)                                            |
-| Egg_Timer                 | Timer app implemented in JavaScript.                                                           | [Egg_Timer](https://github.com/Amen-ellah-kerimi/Egg_Timer)                                  |
-| Full Stack App             | Fullstack app with GitHub OAuth authentication, CRUD dashboard, Zod validation, deployment script for Vercel. | [Full Stack App](https://github.com/Amen-ellah-kerimi/fullstack-app)                          |
-| Notes App                  | Secure notes app with Clerk authentication, PostgreSQL (Neon), Drizzle ORM, real-time sync.    | [Notes App](https://github.com/Amen-ellah-kerimi/notes-app)                                   |
-| JSON Share App             | JSON editor with public URL sharing via Nanoid, secure read-only sharing system.               | [JSON Share App](https://github.com/Amen-ellah-kerimi/json-share-app)                         |
-| AI Chat App                | AI assistant with streaming OpenAI GPT responses, modern responsive chat UI.                   | [AI Chat App](https://github.com/Amen-ellah-kerimi/ai-chat-app)                                |
+| Project Name               | Description                                                                                     | Link                                                                                          | Preview |
+|----------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------|
+| Web-IOT-Weather-Dashboard  | React frontend + Python Flask backend using MQTT and Chart.js to display weather sensor data.    | [Repo](https://github.com/Amen-ellah-kerimi/Web-IOT-Weather-Dashboard)                       | — |
+| amazon-copy                | Amazon e-commerce frontend clone built with React.                                              | [Repo](https://github.com/Amen-ellah-kerimi/amazon-copy)                                      | — |
+| Online_Shop_Example        | Example online shop project demonstrating fullstack concepts.                                   | [Repo](https://github.com/Amen-ellah-kerimi/Online_Shop_Example)                              | — |
+| Introduction_-_React       | Basic React tutorial project for learning React fundamentals.                                   | [Repo](https://github.com/Amen-ellah-kerimi/Introduction_-_React)                             | — |
+| Portfolio-with-Tailwind-CSS| Personal portfolio site using Tailwind CSS.                                                     | [Repo](https://github.com/Amen-ellah-kerimi/Portfolio-with-Tailwind-CSS)                     | — |
+| Project-Template           | Boilerplate template project for starting frontend development.                                 | [Repo](https://github.com/Amen-ellah-kerimi/Project-Template)                                  | — |
+| Quiz                       | Simple interactive quiz app.                                                                    | [Repo](https://github.com/Amen-ellah-kerimi/Quiz)                                            | — |
+| Egg_Timer                  | Timer app implemented in JavaScript.                                                           | [Repo](https://github.com/Amen-ellah-kerimi/Egg_Timer)                                       | — |
+| Full Stack App             | Fullstack app with GitHub OAuth authentication, CRUD dashboard, Zod validation, deployment script for Vercel. | [Repo](https://github.com/Amen-ellah-kerimi/fullstack-app)                                    | <img src="./assets/FullStack-App-All-Posts.png" width="450px"> |
+| Notes App                  | Secure notes app with Clerk authentication, PostgreSQL (Neon), Drizzle ORM, real-time sync.    | [Repo](https://github.com/Amen-ellah-kerimi/notes-app)                                        | <img src="./assets/NOTES-App-Home-Page(Authenticated).png" width="450px"> |
+| JSON Share App             | JSON editor with public URL sharing via Nanoid, secure read-only sharing system.               | [Repo](https://github.com/Amen-ellah-kerimi/json-share-app)                                   | <img src="./assets/JSON-Share-app-Home-Page(Authenticated).png" width="450px"> |
+| AI Chat App                | AI assistant with streaming OpenAI GPT responses, modern responsive chat UI.                   | [Repo](https://github.com/Amen-ellah-kerimi/ai-chat-app)                                       | <img src="./assets/AI-Chatbot-Thumbnail.png" width="450px"> |
 
 ---
 
-
 ### 🧰 Backend & APIs
-| Project Name               | Description                                                                                     | Link                                                                                          |
-|---------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Express-Rest-API           | RESTful API built with Express.js and Node.js.                                                 | [Express-Rest-API](https://github.com/Amen-ellah-kerimi/Express-Rest-API)                     |
-| Backend-Simple             | Basic backend project with Node.js.                                                            | [Backend-Simple](https://github.com/Amen-ellah-kerimi/Backend-Simple)                         |
-| MySQL-API                 | API using MySQL database connectivity.                                                        | [MySQL-API](https://github.com/Amen-ellah-kerimi/MySQL-API)                                  |
+| Project Name               | Description                                                                                     | Link                                                                                          | Preview |
+|----------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------|
+| Express-Rest-API           | RESTful API built with Express.js and Node.js.                                                 | [Repo](https://github.com/Amen-ellah-kerimi/Express-Rest-API)                                  | — |
+| Backend-Simple             | Basic backend project with Node.js.                                                            | [Repo](https://github.com/Amen-ellah-kerimi/Backend-Simple)                                    | <img src="./assets/Backend-Simple-Screenshot.png" width="450px"> |
+| MySQL-API                  | API using MySQL database connectivity.                                                        | [Repo](https://github.com/Amen-ellah-kerimi/MySQL-API)                                         | — |
 
 ---
 
