@@ -21,8 +21,8 @@ Here's an overview of the technologies and tools I work with, categorized by fie
 | Category | Technologies |
 |---|---|
 | **Frontend & Mobile UI** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F74700?style=for-the-badge&logo=chart.js&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-4DC0B5?style=for-the-badge&logo=drizzle&logoColor=white) ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-5030E5?style=for-the-badge&logo=clerk&logoColor=white) ![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Nanoid](https://img.shields.io/badge/Nanoid-EC8B00?style=for-the-badge&logo=nanoid&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PostgreSQL Neon](https://img.shields.io/badge/PostgreSQL%20Neon-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma ORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) |
 
 ### 🧠 Artificial Intelligence (AI) & Machine Learning (ML)
 | Category | Technologies |
@@ -30,14 +30,12 @@ Here's an overview of the technologies and tools I work with, categorized by fie
 | **Libraries/Frameworks** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) |
 
 ### 🔒 Cybersecurity
-
 | Category                 | Technologies & Concepts                                                                                     |
 |--------------------------|-------------------------------------------------------------------------------------------------------------|
 | 🔌 Protocols & Networking | TCP/IP, MQTT, TLS/SSL, ARP, DNS, HTTP/S, 802.11 (WiFi), JWT                                                 |
 | 🧰 Tools & Platforms      | Nmap, Wireshark, Hydra, Metasploit, Aircrack-ng, Burp Suite, John the Ripper, Cisco Packet Tracer, Mosquitto, Nginx |
 | 🧨 Attack Techniques      | ARP Spoofing, Evil Twin, Deauth, Beacon Flood, Probe Request Spam, MQTT Spoofing, Fake Broker/Device Emulation |
 | 🛡️ Defensive Practices    | Strong Authentication (JWT, Username/Password), TLS Encryption, Input Validation & Sanitization, Access Control, Message Integrity (Checksums, Hashing), Secure Credential Storage |
-
 
 ### ☁️ DevOps & Cloud
 | Category | Technologies |
@@ -59,11 +57,10 @@ Here's an overview of the technologies and tools I work with, categorized by fie
 | **Productivity** | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
 | **Hardware** | ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) |
 | **Gaming** | ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) |
-
 ---
 ## 🚀 Projects by Field
 
-### 🌐 Web Development
+### 🌐 Full-Stack & Web Development
 | Project Name               | Description                                                                                     | Link                                                                                          |
 |---------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | Web-IOT-Weather-Dashboard  | React frontend + Python Flask backend using MQTT and Chart.js to display weather sensor data.    | [Web-IOT-Weather-Dashboard](https://github.com/Amen-ellah-kerimi/Web-IOT-Weather-Dashboard)   |
@@ -71,10 +68,16 @@ Here's an overview of the technologies and tools I work with, categorized by fie
 | Online_Shop_Example        | Example online shop project demonstrating fullstack concepts.                                   | [Online_Shop_Example](https://github.com/Amen-ellah-kerimi/Online_Shop_Example)                |
 | Introduction_-_React       | Basic React tutorial project for learning React fundamentals.                                   | [Introduction_-_React](https://github.com/Amen-ellah-kerimi/Introduction_-_React)              |
 | Portfolio-with-Tailwind-CSS| Personal portfolio site using Tailwind CSS.                                                     | [Portfolio-with-Tailwind-CSS](https://github.com/Amen-ellah-kerimi/Portfolio-with-Tailwind-CSS)|
+| Project-Template          | Boilerplate template project for starting frontend development.                                 | [Project-Template](https://github.com/Amen-ellah-kerimi/Project-Template)                     |
 | Quiz                      | Simple interactive quiz app.                                                                    | [Quiz](https://github.com/Amen-ellah-kerimi/Quiz)                                            |
 | Egg_Timer                 | Timer app implemented in JavaScript.                                                           | [Egg_Timer](https://github.com/Amen-ellah-kerimi/Egg_Timer)                                  |
+| Full Stack App             | Fullstack app with GitHub OAuth authentication, CRUD dashboard, Zod validation, deployment script for Vercel. | [Full Stack App](https://github.com/Amen-ellah-kerimi/fullstack-app)                          |
+| Notes App                  | Secure notes app with Clerk authentication, PostgreSQL (Neon), Drizzle ORM, real-time sync.    | [Notes App](https://github.com/Amen-ellah-kerimi/notes-app)                                   |
+| JSON Share App             | JSON editor with public URL sharing via Nanoid, secure read-only sharing system.               | [JSON Share App](https://github.com/Amen-ellah-kerimi/json-share-app)                         |
+| AI Chat App                | AI assistant with streaming OpenAI GPT responses, modern responsive chat UI.                   | [AI Chat App](https://github.com/Amen-ellah-kerimi/ai-chat-app)                                |
 
 ---
+
 
 ### 🧰 Backend & APIs
 | Project Name               | Description                                                                                     | Link                                                                                          |
@@ -82,7 +85,6 @@ Here's an overview of the technologies and tools I work with, categorized by fie
 | Express-Rest-API           | RESTful API built with Express.js and Node.js.                                                 | [Express-Rest-API](https://github.com/Amen-ellah-kerimi/Express-Rest-API)                     |
 | Backend-Simple             | Basic backend project with Node.js.                                                            | [Backend-Simple](https://github.com/Amen-ellah-kerimi/Backend-Simple)                         |
 | MySQL-API                 | API using MySQL database connectivity.                                                        | [MySQL-API](https://github.com/Amen-ellah-kerimi/MySQL-API)                                  |
-| Project-Template          | Boilerplate template project for starting backend development.                                 | [Project-Template](https://github.com/Amen-ellah-kerimi/Project-Template)                     |
 
 ---
 
