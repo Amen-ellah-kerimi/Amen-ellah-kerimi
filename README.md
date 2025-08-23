@@ -121,6 +121,16 @@ Here's an overview of the technologies and tools I work with, categorized by fie
 | Smart Light Firmware      | Firmware controlling smart lighting devices, enabling networked control and automation features. | [Repo](https://github.com/Amen-ellah-kerimi/smart-light-firmware) |
 | Weather Station Firmware  | Firmware managing sensors and data acquisition in weather monitoring IoT devices; integrates with MQTT for real-time data streaming. | [Repo](https://github.com/Amen-ellah-kerimi/weather-station-firmware) |
 
+---
+
+### 🛠️ Developer Tools & Automation
+
+| Project Name | Description | Tech | Link |
+|-------------|-------------|------|------|
+| GitHub User Activity Tracker | C++ CLI tool fetching and displaying recent GitHub user events. | C++, libcurl, nlohmann/json | [Repo](https://github.com/Amen-ellah-kerimi/github-user-activity-tracker) |
+| Internship Applications Automation | Python program that connects to your email, fetches unread internship applications, parses them, and appends structured data to a CSV file. | Python, IMAP, dotenv | [Repo](https://github.com/Amen-ellah-kerimi/Internship-Applications-Automation) |
+
+
 
 ### 🏴 CTF Participation
 
