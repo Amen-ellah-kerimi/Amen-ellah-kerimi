@@ -37,6 +37,51 @@ Here's an overview of the technologies and tools I work with, categorized by fie
 | 🧨 Attack Techniques      | ARP Spoofing, Evil Twin, Deauth, Beacon Flood, Probe Request Spam, MQTT Spoofing, Fake Broker/Device Emulation |
 | 🛡️ Defensive Practices    | Strong Authentication (JWT, Username/Password), TLS Encryption, Input Validation & Sanitization, Access Control, Message Integrity (Checksums, Hashing), Secure Credential Storage |
 
+<pre>
++-------------------------------------------------------+
+|                   CYBERSEC SKILLS                     |
++---------------------------+---------------------------+
+|      __________________   | Tools / Skills:           |
+|  ==c(______(o(______(_()  | - Nmap                    |
+|             )=\           | - Wireshark               |
+|            // \\          | - Netcat                  |
+|           //   \\         | - ARP/DNS Scanning        |
+|          //     \\        | - Beacon / Probe Flood    |
+|         // RECON \\       | - Recon Automation Scripts|
+|        //         \\      |                           |
++---------------------------+---------------------------+
+|                           | Tools / Skills:           |
+| |""""""""""""|======[***  | - Metasploit Framework    |
+| |  EXPLOIT   \            | - Vulnerability Scanning  |
+| |_____________\_______    | - Exploit Chaining        |
+| |==[msf >]============\   | - Post-Exploitation Scripts|
+| |______________________\  |                           |
+| \(@)(@)(@)(@)(@)(@)(@)/   |                           |
+|  *********************    |                           |
++---------------------------+---------------------------+
+|      o O o                | Tools / Skills:           |
+|              o O          | - Custom Shellcodes       |
+|                 o         | - Reverse Shells          |
+| |^^^^^^^^^^^^^^|l___      | - Meterpreter Payloads    |
+| |    PAYLOAD     |""\___, | - Obfuscation Techniques  |
+| |________________|__|)__| | - Delivery Methods        |
+| |(@)(@)"""**|(@)(@)**|(@) |                           |
+|  = = = = = = = = = = = =  |                           |
++---------------------------+---------------------------+
+|        \'\/\/\/'/         | Tools / Skills:           |
+|         )======(          | - Credential Dumping      |
+|       .'  LOOT  '.        | - File / Data Exfiltration|
+|      /    _||__   \       | - Token Harvesting        |
+|     /    (_||_     \      | - Covering Tracks         |
+|    |     __||_)     |     | - Analyzing Stolen Data   |
+|    "       ||       "     |                           |
+|     '--------------'      |                           |
++---------------------------+---------------------------+
+</pre>
+
+
+
+
 ### ☁️ DevOps & Cloud
 | Category | Technologies |
 |---|---|
