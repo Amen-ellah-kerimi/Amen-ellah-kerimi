@@ -183,6 +183,13 @@ Here's an overview of the technologies and tools I work with, categorized by fie
 |------------------|------------------------------------------------------------------|-------|
 | World Wide CTF 2025 | Solved reverse engineering and protocol analysis challenges in a jeopardy-style event. Focused on binary dissection and logic flaws in simulated IoT firmware. | ![Certificate](./assets/certificate-WWC-CTF.jpg) |
 
+### Experience 
+
+| Role                       | Duration                  | Tech Stack                                                                                                                                                                                 | Certificate                                                                    |
+| -------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| **Web Development Intern** | July 17 – August 30, 2025 | **Frontend:** Next.js, TypeScript, TailwindCSS<br>**Backend:** Node.js, Prisma ORM, PostgreSQL<br>**Auth/Security:** Clerk<br>**Deployment/DevOps:** Docker Compose, Vercel<br>**Code Quality:** ESLint | <img src="./assets/Benders-Internship-Certificate.png" alt="Benders Internship Certificate" width="300"> |
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amen-ellah-kerimi&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
