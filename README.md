@@ -13,7 +13,6 @@
 ╬═╬ ☻/
 ╬═╬/▌
 ╬═╬/ \
-A passionate **Computer Engineering Student** at the Faculty of Sciences Bizerte. I'm driven by a desire to learn and build, constantly creating projects in areas like Cyber Security, AI, Web Development, Mobile Development, and IoT to refine my skills and stay consistent.
 </pre>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amen-ellah-kerimi-354a85286)
