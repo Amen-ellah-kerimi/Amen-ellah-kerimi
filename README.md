@@ -1,7 +1,20 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I'm+Amen+Ellah+Kerimi)](https://git.io/typing-svg)
-
+<pre>
+    -▬▬.◙.▬▬‐
+    ▂▄▄▓▄▄▂
+◢◤ █▀▀████▄▄▄◢◤
+█▄ █ █▄ ███▀▀▀▀▀▀╬
+◥█████◤
+══╩══╩══
+╬═╬
+╬═╬    Hi, I'm Amen Ellah Kerimi
+╬═╬    A passionate Computer Engineering Student at the Faculty of Sciences Bizerte. 
+╬═╬    I'm driven by a desire to learn and build, constantly creating projects in areas like Cyber Security, AI, Web Development, 
+╬═╬    Mobile Development, and IoT to refine my skills and stay consistent. Let's Connect ! 
+╬═╬ ☻/
+╬═╬/▌
+╬═╬/ \
 A passionate **Computer Engineering Student** at the Faculty of Sciences Bizerte. I'm driven by a desire to learn and build, constantly creating projects in areas like Cyber Security, AI, Web Development, Mobile Development, and IoT to refine my skills and stay consistent.
-
+</pre>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amen-ellah-kerimi-354a85286)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amenellah.kerimi@fsb.ucar.tn)
