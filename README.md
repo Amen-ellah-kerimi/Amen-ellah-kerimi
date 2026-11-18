@@ -69,21 +69,20 @@ Beyond that, I'm interested in robotics, autonomous systems, and intelligent mac
 
 #### Selected Projects
 
-**Ground Truth Under Attack**
-
-A data integrity monitoring project focused on detecting false data injection and anomalies in energy-related data.
-
-<p align="center">
-  <img src="assets/Ground-Truth.png" alt="Ground Truth Under Attack project" width="85%" />
-</p>
-
-**IoT Dashboard**
-
-A web dashboard for monitoring and interacting with connected IoT systems.
-
-<p align="center">
-  <img src="assets/iot_dashboard.png" alt="IoT monitoring dashboard" width="85%" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Ground Truth Under Attack</h3>
+      <img src="assets/Ground-Truth.png" width="100%" alt="Ground Truth project" />
+      <p>Monitoring system designed to detect false data injection and anomalies in energy data.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>IoT Dashboard</h3>
+      <img src="assets/iot_dashboard.png" width="100%" alt="IoT dashboard" />
+      <p>Web dashboard for monitoring and interacting with connected IoT systems.</p>
+    </td>
+  </tr>
+</table>
 
 ### Embedded Systems & IoT
 
@@ -123,13 +122,15 @@ A web dashboard for monitoring and interacting with connected IoT systems.
 
 #### Selected Projects
 
-**Secure OTA Update System**
-
-A secure over-the-air firmware update system with a management dashboard.
-
-<p align="center">
-  <img src="assets/ota_dashboard.png" alt="Secure OTA update management dashboard" width="85%" />
-</p>
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>Secure OTA Update System</h3>
+      <img src="assets/ota_dashboard.png" width="100%" alt="OTA update dashboard" />
+      <p>Secure over-the-air firmware update system with a management dashboard.</p>
+    </td>
+  </tr>
+</table>
 
 ## 🌙 Night Shift — Robotics & Autonomous Systems
 
@@ -164,38 +165,30 @@ A secure over-the-air firmware update system with a management dashboard.
   <img src="https://img.shields.io/badge/LeRobot-555555?style=flat" height="22" align="center" />
 </p>
 
-#### Robotics Projects & Simulations
-**Orion — Autonomous Robot Taxi**
-
-
-
-<p align="center">
-  <img src="assets/autoware_demo_top_view_passing_car.png"
-       alt="Orion passing a car — top view"
-       width="50%" />
-</p>
-
-<p align="center">
-  <img src="assets/autoware_demo_third_person_view_passing_car.png"
-       width="42%" height="420"
-       style="object-fit: cover;" />
-  <img src="assets/autoware_demo_third_person_view_stopping_at_intersection.png"
-       width="42%" height="420"
-       style="object-fit: cover;" />
-</p>
-
-**Simulation & Control Experiments**
-
-<p align="center">
-  <img src="assets/hexapod.png" alt="Robotics simulation experiment" width="49%" />
-  <img src="assets/sojourner.png" alt="Robotics control experiment" width="49%" />
-</p>
-
-**ATLAS — Outdoor Autonomous UGV**
-
-An outdoor unmanned ground vehicle project built around ROS 2 and a differential-drive architecture.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Orion — Autonomous Robot Taxi</h3>
+      <div align="center">
+        <img src="assets/autoware_demo_top_view_passing_car.png" width="100%" height="180" />
+        <img src="assets/autoware_demo_third_person_view_passing_car.png" width="48%" height="120" />
+        <img src="assets/autoware_demo_third_person_view_stopping_at_intersection.png" width="48%" height="120" />
+      </div>
+      <p>Autonomous driving simulation using Autoware, covering vehicle navigation and road scenarios.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Simulation & Control Experiments</h3>
+      <div align="center">
+        <img src="assets/hexapod.png" width="100%" height="180" />
+        <img src="assets/sojourner.png" width="100%" height="120" />
+      </div>
+      <p>Robotics simulation and control experiments exploring different robot platforms and locomotion.</p>
+    </td>
+  </tr>
+</table>
 
 ---
+
 <p align="center">
   <i>Always building, always experimenting.</i>
 </p>
