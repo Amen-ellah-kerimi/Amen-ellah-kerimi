@@ -1,6 +1,6 @@
 # Amen Ellah Kerimi
 
-### Computer Engineer | Software Development & Embedded Systems
+### Computer Engineering Graduate | Software Development & Embedded Systems
 
 *Building software by day. Building robots after hours.*
 
