@@ -170,17 +170,17 @@ Beyond that, I'm interested in robotics, autonomous systems, and intelligent mac
     <td width="50%" valign="top">
       <h3 align="center">Orion — Autonomous Robot Taxi</h3>
       <div align="center">
-        <img src="assets/autoware_demo_top_view_passing_car.png" width="100%" height="180" />
-        <img src="assets/autoware_demo_third_person_view_passing_car.png" width="48%" height="120" />
-        <img src="assets/autoware_demo_third_person_view_stopping_at_intersection.png" width="48%" height="120" />
+        <img src="assets/autoware_demo_top_view_passing_car.png" width="99%" height="150" />
+        <img src="assets/autoware_demo_third_person_view_passing_car.png" width="49%" height="150" />
+        <img src="assets/autoware_demo_third_person_view_stopping_at_intersection.png" width="49%" height="150" />
       </div>
       <p>Autonomous driving simulation using Autoware, covering vehicle navigation and road scenarios.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Simulation & Control Experiments</h3>
       <div align="center">
-        <img src="assets/hexapod.png" width="100%" height="180" />
-        <img src="assets/sojourner.png" width="100%" height="120" />
+        <img src="assets/hexapod.png" width="100%" height="150" />
+        <img src="assets/sojourner.png" width="100%" height="150" />
       </div>
       <p>Robotics simulation and control experiments exploring different robot platforms and locomotion.</p>
     </td>
